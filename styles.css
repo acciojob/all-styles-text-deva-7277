@@ -1,10 +1,17 @@
 /* Your CSS Code here. */
 container>div{
 width:200px;
-background-color:purple;
-border-left:5px solid green;
+background-color:rgb(128, 0, 128);
+border-left-width:5px solid green;
 color:white;
 font-size:20px;
 padding:10px;
+border-left-color:rgb(0, 128, 0)
+}
+
+#heading{
+	font-size: 20px;
+	color:rgb(255, 255, 255);
+}
 
 }
